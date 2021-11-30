@@ -1,0 +1,231 @@
+header{color: white;max-width:1345px;}
+ul li {list-style-type: none;}
+.texte{font-family: 'Outfit', sans-serif;}
+.titre{font-family: 'Outfit', sans-serif;font-size:20px}
+ img{width:100%;height:auto}
+a {
+  text-decoration: none;
+}
+
+
+
+#idmenu, ul, li{
+		display:inline-block;
+		vertical-align:top
+		}
+		
+
+#idmenu{
+	
+	position:absolute;
+	right:300px;
+	top:20px
+}
+.menu a{
+	padding-right:30px;
+	font-size:20px;
+	font-family: 'Outfit', sans-serif;
+	 color:white;
+
+}
+
+#welcome{
+	left:450px;
+	top:100px;
+	height:454px;
+	width:454px;
+	background-repeat:no-repeat;
+	position:relative;font-size: 120px;
+	
+}
+
+#conteneur {
+	width: 1345px;
+	background: #fbfbfb;
+}
+
+#moi {
+	background: blFue;
+	text-align: center;
+	margin-top:50px;
+	}
+	
+#gauche {
+	padding-top:100px
+	}
+	
+#textepresentation{
+	width: 50%;padding-right: 0px
+	}
+#imgpresentation{
+	width: 45%
+	}
+	
+#imgpresentation, #textepresentation{
+	vertical-align: top;
+	display: inline-block
+	}
+	
+#aymen{
+	max-width: 40%;
+	max-height: 40%
+	}
+
+#hobbies {
+	padding-top:20px;
+	height:200px;
+	background: #0190ca;
+	text-align: center;
+	margin-top:50px
+	}
+#passions{
+	width:50%;
+	padding-right: 50px
+	}
+#hobby{
+	width:45px;
+	height:45px
+}
+#skills{
+	width:45px;
+	height:45px
+}
+#competences{
+	width: 45%
+	}
+#competences, #passions{
+	vertical-align: top;
+	display: inline-block
+	}
+
+#cv{
+	width:95%;
+	margin:0 auto;
+	position:relative;
+	margin-top:50px
+} 
+
+#photo, .droite {
+	vertical-align: top;
+	display: inline-block
+}
+
+#photo{
+	height:400px;
+	width:50%
+}
+
+.droite{
+	position:relative;
+	top:0px;color:white;
+	right:0px;width:49%;
+	background:black;
+	opacity:0.7;height:300px;
+	padding-top:100px;
+}
+
+button{
+	margin: 0 auto;
+}
+
+button{
+	display:block;
+	width:300px;
+	line-height:50px;
+	vertical-align:middle;
+	background:white;
+	color:black;
+}
+
+.texte2{
+	font-family: 'Outfit', sans-serif;
+	text-align:center
+}
+
+.titre2{
+	font-family: 'Outfit', sans-serif;
+	font-size:20px;text-align:center
+}
+
+
+/*footer*/
+footer{
+	width:100%;
+	margin:0 auto;
+	margin-top:100px;
+	background:#f6f6f6;
+	_padding:50px
+}
+
+#footer_conteneur{
+	width:1280px;
+	margin:0 auto;
+	padding-bottom:50px;
+	padding-top:50px
+}
+
+#footer_haut{
+	padding-bottom:25px
+}
+
+.logo_footer{
+	padding-right:25px;
+	width:30px;
+	height:30px
+}
+
+#ligne{
+	width:95%;
+	padding-top:25px;
+	border-top:solid #e2e2e2 1px
+}
+
+#emlv{
+	width:60%
+}
+
+.footer_texte_couleur{
+	color:#707070;
+	padding-right:25px
+}
+
+#footer_bas{
+	padding-top:50px
+}
+
+.footer_bas{
+	padding-right:40px
+}
+
+a,.footer_bas{
+	color:#707070;
+	display:inline-block
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
